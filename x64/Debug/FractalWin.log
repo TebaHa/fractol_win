@@ -1,0 +1,3 @@
+﻿  Fractol.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 300 (OpenCL 3.0)
+  FractalWin.vcxproj -> C:\Users\user\source\repos\FractalWin\x64\Debug\FractalWin.exe
